@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Me interesso por Front-end mas estou buscado me aprofundar em Back-end. Minhas principal linguagens são javaScript e Java. Tenho focado em atuar no desenvolvimento de sites sempre buscando a criação de sites responsivos e interativos.</h3>
+<h3 align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. Me interesso por Front-end mas estou buscado me aprofundar em Back-end. Minhas principais linguagens são javaScript e Java. Tenho focado em atuar no desenvolvimento de sites sempre buscando a criação de designs responsivos e interativos.</h3>
 
 ###
 
